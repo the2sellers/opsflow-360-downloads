@@ -8,8 +8,8 @@ here — just the installers linked from the download button in
 
 | Platform | File |
 |---|---|
-| Windows | [OpsFlow 360 Monitor Setup 1.0.1.exe](releases/v1.0.1/OpsFlow 360 Monitor Setup 1.0.1.exe) |
-| macOS (Apple Silicon) | [OpsFlow 360 Monitor-1.0.1-arm64.dmg](releases/v1.0.1/OpsFlow 360 Monitor-1.0.1-arm64.dmg) |
+| Windows | [OpsFlow 360 Monitor Setup 1.0.1.exe](releases/v1.0.1/OpsFlow%20360%20Monitor%20Setup%201.0.1.exe) |
+| macOS (Apple Silicon) | [OpsFlow 360 Monitor-1.0.1-arm64.dmg](releases/v1.0.1/OpsFlow%20360%20Monitor-1.0.1-arm64.dmg) |
 
 New builds are published here automatically by the `desktop-build.yml`
 workflow in the main `opsflow-360` repo.
